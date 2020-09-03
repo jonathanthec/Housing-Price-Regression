@@ -1,6 +1,12 @@
-For Kaggle Competition: House Prices: Advanced Regression Techniques
+# Housing Price Regression Model
 
+## Housing Price Regression Model
+For Kaggle Competition: House Prices: Advanced Regression Techniques
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+
+## Tech/framework used
+<b>Built with</b>
+- Python, TensorFlow
 
 To run this project, make sure all libraries are installed properly. 
 
